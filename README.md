@@ -1,2 +1,2 @@
 # Universal-Run-Length-Encoding
-An advanced RLE method that can be used instead of both standard and flag strings and also for that in which when flag is used the value remains the as it isn't compressed like fo the strong "aaabbbcdcdcdcd"
+​"Our algorithm upgrades standard and flagged RLE by resolving short-run expansion—optimizing 2-character repeats while serving as a direct, drop-in replacement for traditional methods."
